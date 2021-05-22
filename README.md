@@ -14,3 +14,5 @@ In app.yaml file,
 # after doing the above changes run the below command to create an app
 kubectl apply -f app.yaml
 ```
+Checkout How To Deploy App On AKS Cluster: [CLICK HERE](https://github.com/pratik10596/ingress-example/blob/main/aks-setup.md#aks-setup)
+
